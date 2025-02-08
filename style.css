@@ -54,7 +54,7 @@
 /* ×ボタン（四角に変更） */
 #closeButton {
     position: absolute;
-    top: 5%;
+    top: 15%;
     right: 5%;
     width: 50px;  /* 幅を指定 */
     height: 50px; /* 高さを指定 */
@@ -87,7 +87,7 @@
 /* ボタンの配置 */
 #switchButtons {
     position: absolute;
-    top: 15%; 
+    top: 25%; 
     right: 5%; /* ×ボタンと同じ横位置 */
     z-index: 1000;
     display: flex;
